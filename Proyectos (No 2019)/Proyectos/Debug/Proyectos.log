@@ -1,0 +1,6 @@
+﻿  Servicios.c
+c:\users\cabal\onedrive\escritorio\proyectos (no 2019)\proyectos\servicios.c(22): warning C4129: ' ': secuencia de escape de carácter no reconocida
+c:\users\cabal\onedrive\escritorio\proyectos (no 2019)\proyectos\servicios.c(64): warning C4013: 'getch' sin definir; se supone que extern devuelve como resultado int
+c:\users\cabal\onedrive\escritorio\proyectos (no 2019)\proyectos\servicios.c(81): warning C4013: 'getche' sin definir; se supone que extern devuelve como resultado int
+c:\users\cabal\onedrive\escritorio\proyectos (no 2019)\proyectos\servicios.c(312): warning C4013: 'gets' sin definir; se supone que extern devuelve como resultado int
+  Proyectos.vcxproj -> C:\Users\Cabal\OneDrive\Escritorio\Proyectos (No 2019)\Debug\Proyectos.exe
